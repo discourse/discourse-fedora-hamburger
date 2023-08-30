@@ -1,0 +1,14 @@
+.hamburger-panel {
+  .menu-panel.revamped {
+    width: 250px;
+  }
+}
+
+#sidebar-section-content-categories {
+  grid-template-columns: 1fr;
+}
+
+[data-list-item-name='configure-default-navigation-menu-tags'] {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
