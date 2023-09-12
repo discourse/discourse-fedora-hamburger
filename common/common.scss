@@ -1,6 +1,6 @@
 .hamburger-panel {
   .menu-panel.revamped {
-    width: 250px;
+    width: 280px;
   }
 }
 
@@ -11,4 +11,8 @@
 [data-list-item-name='configure-default-navigation-menu-tags'] {
   grid-column-start: 1;
   grid-column-end: 3;
+}
+
+.menu-panel.drop-down {
+  max-height: 90vh;
 }
